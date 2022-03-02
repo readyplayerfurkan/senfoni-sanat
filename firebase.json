@@ -2,6 +2,7 @@
   "hosting": {
     "site": "senfoni",
     "public": "public",
+    "cleanUrls": true,
     "ignore": [
       "firebase.json",
       "**/.*",
@@ -13,5 +14,6 @@
         "destination": "/index.html"
       }
     ]
+    
   }
 }
